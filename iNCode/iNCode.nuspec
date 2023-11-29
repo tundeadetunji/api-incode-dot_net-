@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>inovation.incode</id>
+    <version>1.2.3</version>
+    <title>inovation.incode</title>
+    <authors>inovationware</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/tundeadetunji/inhouse-in_code</projectUrl>
+    <description>Private</description>
+    <releaseNotes>Initial release of the package.</releaseNotes>
+    <copyright>©2022 inovationware (inovationware.com)</copyright>
+    <tags>incode inovationware</tags>
+  </metadata>
+</package>
